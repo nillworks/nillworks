@@ -11,8 +11,12 @@ projects to improve my skills. I have completed HTML, CSS, and SCSS, and I’m n
 exploring JavaScript to strengthen my frontend development journey. So far, I
 have completed 5 projects, including <br/>
 
-✅ ECOMMERCE-WEBSITE <br/> ✅ LANKASTAY-WEBSITE <br/> ✅ Restaurant Websites
-<br/> ✅ Perfect Responsive Design project <br/>
+✔️ E-Commerce Website  
+✔️ Luxora Home Website  
+✔️ Lanka Stay Website  
+✔️ GreenMind Website  
+✔️ Gym Website  
+✔️ Portfolio Website 
 
 Through these projects, I have learned how to write clean, maintainable code and
 create responsive designs that work across all devices.<br/> 💡 Coding is not
