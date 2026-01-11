@@ -54,21 +54,23 @@ the web development community. 🚀
 <h2 align="left"> ☕ Connect with me! </h2>
 
 <p align="left">
-  <a href="#"><img src="images/facebook.png" alt="facebook"></a>
-  <a href="#"><img src="images/youtube.png" alt="Youtub"></a>
-  <a href="#"><img src="images/instagram.png" alt="instagram"></a>
-  <a href="https://twitter.com/shiponworks"><img src="images/twitter.png" alt="twitter"></a>
-  <a href="https://www.linkedin.com/in/nillworks/"><img src="images/linkedin.png" alt="Linkedin"></a>
-
-<span align="left"> 📧Email Address</span>
-
-  <p>✅<span>►</span><a href="mailto:shiponworks@gmail.com"> shiponworks@gmail.com</a></p>
-  
-  💬 <a href="https://wa.me/8801612375602">WhatsApp</a> <br/>
- 📞 <a href="tel:+8801612375602">+8801612375602</a> 
-  
+  <a href="#"><img src="images/facebook.png" width="40" /></a>
+  <a href="#"><img src="images/youtube.png" width="40" /></a>
+  <a href="#"><img src="images/instagram.png" width="40" /></a>
+  <a href="https://twitter.com/shiponworks">
+    <img src="images/twitter.png" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/nillworks/">
+    <img src="images/linkedin.png" width="40" />
+  </a>
 </p>
-<h2 align="left"> </h2>
-<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nillworks)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+📧 <a href="mailto:shiponworks@gmail.com">shiponworks@gmail.com</a>
+&nbsp; | &nbsp;
+💬 <a href="https://wa.me/8801612375602">WhatsApp</a>
+&nbsp; | &nbsp;
+📞 <a href="tel:+8801612375602">+8801612375602</a>
+</p>
+
+<h2></h2>
