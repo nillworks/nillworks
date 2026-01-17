@@ -72,7 +72,7 @@ the web development community. 🚀
 <p align="left">
 📧 <a href="mailto:shiponworks@gmail.com">shiponworks@gmail.com</a>
 &nbsp; | &nbsp;
-💬 <a href="https://wa.me/8801612375602">WhatsApp</a>
+💬 <a href="https://wa.me/8801952470881">WhatsApp</a>
 &nbsp; | &nbsp;
 📞 <a href="tel:+8801612375602">+8801612375602</a>
 </p>
