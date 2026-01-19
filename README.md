@@ -78,3 +78,8 @@ the web development community. 🚀
 </p>
 
 <h2></h2>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nillworks)](https://github.com/anuraghazra/github-readme-stats)
+
+
