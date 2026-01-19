@@ -79,7 +79,9 @@ the web development community. 🚀
 
 <h2></h2>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nillworks)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nillworks&layout=compact&theme=tokyonight" width="400" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nillworks&show_icons=true&theme=tokyonight" width="400" height="165"/>
+</div>
 
 
