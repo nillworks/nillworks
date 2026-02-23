@@ -79,9 +79,21 @@ the web development community. 🚀
 
 <h2></h2>
 
-<div style="display:flex; gap:20px; flex-wrap:wrap;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nillworks&layout=compact&theme=tokyonight" width="400" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api?username=nillworks&show_icons=true&theme=tokyonight" width="400" height="165"/>
-</div>
-
-
+<table align="center" style="background-color:#28e3e6; border-radius:10px; padding:10px;">
+  <tr>
+    <td style="padding:5px; transition: transform 0.3s;">
+      <img 
+        src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nillworks&layout=compact&theme=vision-friendly-dark&bg_color=2d2d2d&title_color=c56a90&text_color=ffffff" 
+        width="420"
+        height="170"
+      />
+    </td>
+    <td style="padding:5px; transition: transform 0.3s;">
+      <img 
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=nillworks&background=2d2d2d&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" 
+        width="420"
+        height="175"
+      />
+    </td>
+  </tr>
+</table>
