@@ -79,20 +79,22 @@ the web development community. 🚀
 
 <h2></h2>
 
-<table align="center" style="background-color:#28e3e6; border-radius:10px; padding:10px;">
+<table align="center" style="background-color:#ebfcfc; border-radius:12px; padding:12px;">
   <tr>
-    <td style="padding:5px; transition: transform 0.3s;">
+    <td style="padding:6px;">
       <img 
         src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nillworks&layout=compact&theme=vision-friendly-dark&bg_color=2d2d2d&title_color=c56a90&text_color=ffffff" 
         width="420"
         height="170"
+        style="border-radius:8px;"
       />
     </td>
-    <td style="padding:5px; transition: transform 0.3s;">
+    <td style="padding:6px;">
       <img 
         src="https://github-readme-streak-stats-eight.vercel.app/?user=nillworks&background=2d2d2d&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" 
         width="420"
         height="175"
+        style="border-radius:8px;"
       />
     </td>
   </tr>
