@@ -4,6 +4,12 @@
 
 </div>
 
+<br>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nillworks&label=Profile%20views&color=0e75b6&style=flat" alt="nillworks" />
+</p>
+
 ### 🚀 About Me
 
 I am a passionate learner in Web Development, currently focusing on building
