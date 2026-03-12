@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFz4s0Fs4lLmQ/profile-displaybackgroundimage-shrink_350_1400/B56Zs8YByhJsAc-/0/1766244491697?e=1773273600&v=beta&t=GvJd2lr5dwJqMUb_c6HFXR-ovVowfeY_ZSZ1jxOdDTM" alt="Images">
+<img src="./images/githubBaner.jpg" alt="img">
 
 </div>
 
@@ -22,7 +22,7 @@ have completed 5 projects, including <br/>
 ✔️ Lanka Stay Website  
 ✔️ GreenMind Website  
 ✔️ Gym Website  
-✔️ Portfolio Website 
+✔️ Portfolio Website
 
 Through these projects, I have learned how to write clean, maintainable code and
 create responsive designs that work across all devices.<br/> 💡 Coding is not
