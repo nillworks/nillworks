@@ -4,7 +4,10 @@
 <!-- <img src="./images/Shipon-Roy-Linkedin-Banner.jpg" alt="img"> -->
 
 <!-- Banner 2 -->
-<img src="./images/Shipon-Roy-Linkedin-Banner-2.png" alt="img">
+<!-- <img src="./images/Shipon-Roy-Linkedin-Banner-2.png" alt="img"> -->
+
+<!-- Banner 3 -->
+<img src="./images/shipon-roy-github-banner.png" alt="img">
 
 </div>
 
