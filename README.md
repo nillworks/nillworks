@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./images/Shipon-Roy-Linkedin-Banner.jpg" alt="img">
+<!-- Banner 1 -->
+<!-- <img src="./images/Shipon-Roy-Linkedin-Banner.jpg" alt="img"> -->
+
+<!-- Banner 2 -->
+<img src="./images/Shipon-Roy-Linkedin-Banner-2.png" alt="img">
 
 </div>
 
