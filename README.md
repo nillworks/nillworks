@@ -19,22 +19,24 @@
 
 ### 🚀 About Me
 
-I am a passionate learner in Web Development, currently focusing on building
-projects to improve my skills. I have completed HTML, CSS, and SCSS, and I’m now
-exploring JavaScript to strengthen my frontend development journey. So far, I
-have completed 20+ projects, including <br/>
+I am an aspiring Full Stack (MERN + Next.js) Developer passionate about building modern, responsive, and scalable web applications. I enjoy turning ideas into real-world products and continuously improving my skills through hands-on project development.
 
-✔️ E-Commerce Website ✔️ Luxora Home Website ✔️ Lanka Stay Website  
-✔️ GreenMind Website ✔️ Gym Website ✔️ Portfolio Website
+I have completed 30+ projects, including E-Commerce, Portfolio, and Web Applications, focusing on clean code, responsive UI, and real-world functionality.
 
-Through these projects, I have learned how to write clean, maintainable code and
-create responsive designs that work across all devices.<br/> 💡 Coding is not
-just my skill—it’s my hobby. I enjoy experimenting with new ideas, solving
-problems, and continuously improving my craft. My next goal is to dive deeper
-into JavaScript and start working with real-world client projects.
+I am also actively working on team-based projects, where I collaborate with other developers, improve communication skills, and learn real-world development workflows like Git collaboration and project structuring.
 
-I’m always open to learning, collaborating, and connecting with professionals in
-the web development community. 🚀
+One of my recent projects is KeenKeeper – a Friendship Management Web App built with Next.js, where I explored modern frontend architecture and advanced UI development.
+
+
+🔥 What I Do
+
+✔ Build modern and responsive web applications <br>
+✔ Work on both solo and team-based real-world projects <br>
+✔ Focus on clean, reusable, and maintainable code <br>
+✔ Continuously learn and improve development skills <br>
+✔ Practice collaboration using Git & GitHub workflows <br>
+
+
 
 <!-- ---------- 💻 Tech Stack Section  ---------- -->
 
