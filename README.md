@@ -17,24 +17,18 @@
   <img src="https://komarev.com/ghpvc/?username=nillworks&label=Profile%20views&color=0e75b6&style=flat" alt="nillworks" />
 </p>
 
-### 🚀 About Me
+##🚀 About Me
 
-I am an aspiring Full Stack (MERN + Next.js) Developer passionate about building modern, responsive, and scalable web applications. I enjoy turning ideas into real-world products and continuously improving my skills through hands-on project development.
+I am a MERN Stack Web Developer focused on building modern, scalable, and high-performance web applications using React, Next.js, Node.js, Express.js, and MongoDB.
 
-I have completed 30+ projects, including E-Commerce, Portfolio, and Web Applications, focusing on clean code, responsive UI, and real-world functionality.
+I have completed 45+ projects, including 2 collaborative team projects, where I gained hands-on experience in full-stack development, API integration, responsive UI design, and real-world problem-solving.
 
-I am also actively working on team-based projects, where I collaborate with other developers, improve communication skills, and learn real-world development workflows like Git collaboration and project structuring.
-
-One of my recent projects is KeenKeeper – a Friendship Management Web App built with Next.js, where I explored modern frontend architecture and advanced UI development.
+I enjoy writing clean, maintainable code and continuously improving my skills through practical development and team collaboration using Git & GitHub.
 
 
-🔥 What I Do
+🎯 Focus
+Building scalable full-stack applications, improving backend architecture, and delivering clean, user-friendly digital experiences.
 
-✔ Build modern and responsive web applications <br>
-✔ Work on both solo and team-based real-world projects <br>
-✔ Focus on clean, reusable, and maintainable code <br>
-✔ Continuously learn and improve development skills <br>
-✔ Practice collaboration using Git & GitHub workflows <br>
 
 
 
