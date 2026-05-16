@@ -7,7 +7,7 @@
 <!-- <img src="./images/Shipon-Roy-Linkedin-Banner-2.png" alt="img"> -->
 
 <!-- Banner 3 -->
-<img src="./images/shipon-roy-github-banner.png" alt="img">
+<img src="./images/linkden_Github_Banner.png" alt="img">
 
 </div>
 
@@ -19,18 +19,19 @@
 
 ## 🚀 About Me
 
-I am a MERN Stack Web Developer focused on building modern, scalable, and high-performance web applications using React, Next.js, Node.js, Express.js, and MongoDB.
+I am a MERN Stack Web Developer focused on building modern, scalable, and
+high-performance web applications using React, Next.js, Node.js, Express.js, and
+MongoDB.
 
-I have completed 45+ projects, including 2 collaborative team projects, where I gained hands-on experience in full-stack development, API integration, responsive UI design, and real-world problem-solving.
+I have completed 45+ projects, including 2 collaborative team projects, where I
+gained hands-on experience in full-stack development, API integration,
+responsive UI design, and real-world problem-solving.
 
-I enjoy writing clean, maintainable code and continuously improving my skills through practical development and team collaboration using Git & GitHub.
+I enjoy writing clean, maintainable code and continuously improving my skills
+through practical development and team collaboration using Git & GitHub.
 
-
-🎯 Focus
-Building scalable full-stack applications, improving backend architecture, and delivering clean, user-friendly digital experiences.
-
-
-
+🎯 Focus Building scalable full-stack applications, improving backend
+architecture, and delivering clean, user-friendly digital experiences.
 
 <!-- ---------- 💻 Tech Stack Section  ---------- -->
 
