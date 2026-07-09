@@ -57,7 +57,7 @@ architecture, and delivering clean, user-friendly digital experiences.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React" alt="React" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" alt="Next.js" />
   &nbsp;
-  <img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='white'/%3E%3Ctext x='50' y='65' font-family='Arial' font-size='45' font-weight='bold' text-anchor='middle' fill='%231a1a1a'%3EUI%3C/text%3E%3C/svg%3E" width="50" title="HeroUI" alt="HeroUI" />
+  <img src="./images/heroui.svg" width="50" title="HeroUI" alt="HeroUI" />
   <img src="https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg" width="50" title="daisyUI" alt="daisyUI" />
   <img src="https://ui.shadcn.com/apple-touch-icon.png" width="50" title="shadcn/ui" alt="shadcn/ui" />
 </p>
